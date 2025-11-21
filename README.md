@@ -1,8 +1,8 @@
 [English](README.md "null") | [فارسی](docs/README_FA.md "null")
 
-# Ubuntu DNS Manager Pro - Advanced Ubuntu DNS Management Tool
+# Ubuntu DNS Manager - Advanced Ubuntu DNS Management Tool
 
-`Ubuntu DNS Manager Pro` is a Tkinter-based Graphical User Interface (GUI) for managing, speed testing, and applying DNS servers on the Ubuntu operating system (and Debian/Ubuntu-based distributions that use `nmcli`). This tool allows users to import external DNS lists, measure server performance (Ping and Dig speed), and automatically remove slow or invalid servers.
+`Ubuntu DNS Manager` is a Tkinter-based Graphical User Interface (GUI) for managing, speed testing, and applying DNS servers on the Ubuntu operating system (and Debian/Ubuntu-based distributions that use `nmcli`). This tool allows users to import external DNS lists, measure server performance (Ping and Dig speed), and automatically remove slow or invalid servers.
 
 **Note:** This program requires **root (sudo)** access to apply network settings.
 
